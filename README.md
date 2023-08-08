@@ -15,7 +15,7 @@ The data contains the information about the loan application at the time of appl
     <strong>All other cases:</strong> All other cases when the payment is paid on time.
   </li>
 </ol>
-When a client applies for a loan, there are four types of decisions that could be taken by the client/company):<br>
+When a client applies for a loan, there are four types of decisions that could be taken by the client/company:<br>
 <ol>
   <li><strong>Approved:</strong> The Company has approved loan Application</li>
   <li><strong>Cancelled:</strong> The client cancelled the application sometime during approval. Either the client changed her/his mind about the loan or in some cases due to a higher risk of the client, he received worse pricing which he did not want.</li>
