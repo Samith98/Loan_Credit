@@ -32,4 +32,4 @@ The data is about whether a client has payment difficulties.</li>
 </ol>
 
 ## Summary
-<img src="./images/incorrect_data.jpg">
+<img src="/images/incorrect_data.JPG" alt="Incorrect data" width="500" height="300">
