@@ -32,4 +32,18 @@ The data is about whether a client has payment difficulties.</li>
 </ol>
 
 ## Summary
-<img src="/images/incorrect_data.JPG" alt="Incorrect data" width="500" height="300">
+<strong>*Incorrect data*:</strong><br>
+<img src="./images/incorrect_data.JPG" alt="incorrect_data" width="500" height="300">
+
+<strong>*Defaulter Report*:</strong><br>
+<img src="./images/defaulter_1.JPG" alt="defaulter_report_1" width="700" height="300">
+<br><br>
+<img src="./images/defaulter_2.JPG" alt="defaulter_report_2" width="700" height="300">
+
+<strong>*Possible Fraud*:</strong><br>
+<img src="./images/possible_fraud.JPG" alt="possible_fraud" width="700" height="300">
+
+## Recommendation
+<img src="./images/recommendation.JPG" alt="recommendation_1" width="700" height="300">
+<br><br>
+<img src="./images/recommendation_1.JPG" alt="recommendation_2" width="700" height="300">
