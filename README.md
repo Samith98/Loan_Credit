@@ -31,8 +31,5 @@ The data is about whether a client has payment difficulties.</li>
   <li><strong>columns_description.csv:</strong> is data dictionary which describes the meaning of the variables.</li>
 </ol>
 
-## Approach
-- Check the data for basic information.
-- Check for *missing values/ outliers*.
-- Perform *data cleaning*, *feature transformation/ engineering*.
-- Perform Univariate and Bi-Variate Analysis on the data.
+## Summary
+<img src="./images/incorrect_data.jpg">
